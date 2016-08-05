@@ -1,0 +1,31 @@
+div:not(.grande){width: 40px;
+				height: 40px;
+				border: 2px solid grey;
+				background-color: lightgrey;
+}
+.uno{
+			display: block;
+			margin-bottom: 100px;
+}
+.grande{	
+			display: block;
+			border: solid 2px gray;
+			width: 180px;
+			height: 65px;
+			background-color: lightgray;
+			margin-bottom: 10px;
+			margin-top: 10px;
+}
+.triple{ 	display: inline-block;
+			margin-bottom: 10px; 
+			margin-top: 10px;
+			margin-left: 10px;}
+.par{
+			display: inline-block;
+			border: solid 2px blue;
+			margin-bottom: 10px;
+}
+.sola{
+			display: block;
+			border: solid 2px blue;
+}
